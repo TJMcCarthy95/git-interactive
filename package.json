@@ -1,6 +1,6 @@
 {
   "name": "git-interactive",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An interactive git terminal utility",
   "main": "./dist/index.js",
   "repository": "git@github.com:TJMcCarthy95/git-interactive.git",
