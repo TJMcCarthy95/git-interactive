@@ -1,6 +1,6 @@
 # Git Interactive
 
-[![npm package](https://nodei.co/npm/git-interactive.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/request/)
+[![npm package](https://nodei.co/npm/git-interactive.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/git-interactive/)
 
 An interactive git terminal utility for managing local git branches with ease. Offers interactive utilities for checking out, removing, logging and merging branches all from a simple UI.
 
